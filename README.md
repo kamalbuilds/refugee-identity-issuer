@@ -3,6 +3,8 @@
 ## Tagline
 A decentralized solution for verifying and documenting refugee identities using blockchain technology and zero-knowledge proofs.
 
+## Demo Video
+
 ## Problem Statement
 Undocumented refugees face significant challenges in proving their identity and status, which affects their access to essential services and humanitarian aid. Traditional identity verification systems are often:
 - Centralized and vulnerable to data breaches
