@@ -3,10 +3,10 @@ export type SiteConfig = typeof siteConfig
 export const siteConfig = {
   name: "Next.js",
   description:
-    "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+     'Verify and issue refugee identity credentials using Silk and Zeronym',
   mainNav: [
     {
-      title: "Home",
+      title: "Refugee Identity Issuer",
       href: "/",
     },
   ],
